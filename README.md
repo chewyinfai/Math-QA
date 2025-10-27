@@ -6,9 +6,6 @@ We are pleased to share all the datasets and code used in our demo. This reposit
 We hope these resources will be beneficial for your research..
 
 Thank you for your interest and support!
-<div style="text-align: center;">
-<img src="image/CMU_AIMO.png" alt="Alt text" width="400" height="400">
-</div>
 
 ## Content:
 - **Problem Dataset** The processed dataset (AIME, AMC, Odyssey-Math)
