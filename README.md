@@ -1,9 +1,9 @@
 # MATH QA
-Welcome to the official GitHub repository of the CMU_Math team, the proud winners of the **2nd place** in the **AI Mathematical Olympiad (AIMO)**.
+Welcome to the official GitHub repository of the Math QA team.
 
-We are pleased to share all the datasets and code used in our competition. This repository contains the resources needed to reproduce our models and solutions.
+We are pleased to share all the datasets and code used in our demo. This repository contains the resources needed to reproduce our models and solutions.
 
-We hope these resources will be beneficial for your research and preparation for the next round of AIMO.
+We hope these resources will be beneficial for your research..
 
 Thank you for your interest and support!
 <div style="text-align: center;">
